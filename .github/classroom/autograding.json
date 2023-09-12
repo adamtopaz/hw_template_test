@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "grade",
+      "setup": "",
+      "run": "lake exe grade check val.pickle type.pickle",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
